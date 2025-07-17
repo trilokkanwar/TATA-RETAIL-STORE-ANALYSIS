@@ -45,4 +45,6 @@ Tableau (dashboarding, interactive visuals)
 Jupyter Notebook (exploratory analysis)
 Excel/CSV (data import/export)
 
-https://public.tableau.com/views/ProjectTata-SalesAnalysis/SalesAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dataset: https://www.kaggle.com/datasets/ishanshrivastava28/tata-online-retail-dataset
+
+Tableau Dashboard: https://public.tableau.com/views/ProjectTata-SalesAnalysis/SalesAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
